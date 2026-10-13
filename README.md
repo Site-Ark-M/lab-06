@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** Liam Hann
-- **CCID:** lean
+- **CCID:** lhann
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
